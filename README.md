@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sa2003hil&show_icons=true&locale=en" alt="sa2003hil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa2003hil&" alt="sa2003hil" /></p>
+
+[![An image of @sa2003hil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sa2003hil)](https://holopin.io/@sa2003hil)
