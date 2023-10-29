@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sa2003hil&label=Profile%20views&color=0e75b6&style=flat" alt="sa2003hil" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node js**
 
 - 📝 I regularly write articles on [https://codewithsahil404.blogspot.com/](https://codewithsahil404.blogspot.com/)
 
-- 💬 Ask me about **Web Development , MEARN**
+- 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **sa20128hil@gmail.com**
 
