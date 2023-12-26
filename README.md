@@ -12,7 +12,7 @@
 **`Full Stack Developer (NextJs/ReactJs/API's)`**
 <br>
 
-In my second year, I'm passionate about tech design and coding. Coding is <br/>not just a skill but an art, allowing me to express creativity and constantly refine <br/> my abilities. It's a dynamic journey where challenges are opportunities for learning<br/> and growth in the ever-evolving tech landscape.
+In my second year, I'm passionate about tech design and coding. Coding is not just a skill but an art, allowing me to express creativity and constantly refine my abilities. It's a dynamic journey where challenges are opportunities for learning and growth in the ever-evolving tech landscape.
 - 🔭 I’m currently working on **Full Stack Development**
 - 📫 How to reach me: **sa20128hil@gmail.com**
 - ⚡ **Programming ideas into reality😁.**
