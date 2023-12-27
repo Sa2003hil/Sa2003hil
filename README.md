@@ -12,7 +12,7 @@
 **`Full Stack Developer (NextJs/ReactJs/API's)`**
 <br>
 
-In my second year, I'm passionate about tech design and coding. Coding is not just a skill but an art, allowing me to express creativity and constantly refine my abilities. It's a dynamic journey where challenges are opportunities for learning and growth in the ever-evolving tech landscape.
+Full-stack developer specializing in Next.js, React.js, and Express.js, passionate about crafting seamless and innovative web solutions. Committed to continuous learning and contributing to the open-source community.
 - 🔭 I’m currently working on **Full Stack Development**
 - 📫 How to reach me: **sa20128hil@gmail.com**
 - ⚡ **Programming ideas into reality😁.**
