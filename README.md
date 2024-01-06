@@ -1,6 +1,6 @@
 ![MasterHead](https://jguni.in/images/full-stack-banner.jpg)
 
-<h1 align="center">Hello World!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">,I'm Sahil<img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">,I'm Sahil<img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
