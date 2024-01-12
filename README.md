@@ -69,17 +69,17 @@ About= [
 
 ## ❤ Views and Followers
 
-[![GitHub views](https://komarev.com/ghpvc/?username=YAKSHIT-22&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/sa2003hil?tab=followers)
-[![GitHub followers](https://img.shields.io/github/followers/YAKSHIT-22.svg?style=for-the-badge&color=orange&label=Follower)](https://github.com/sa2003hil?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/YAKSHIT-22.svg?style=for-the-badge&color=green&affiliations=OWNER%2CCOLLABORATOR)](https://github.com/sa2003hil?tab=stars)
+[![GitHub views](https://komarev.com/ghpvc/?username=Sa2003hil&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Sa2003hil?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Sa2003hil.svg?style=for-the-badge&color=orange&label=Follower)](https://github.com/Sa2003hil?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Sa2003hil.svg?style=for-the-badge&color=green&affiliations=OWNER%2CCOLLABORATOR)](https://github.com/Sa2003hil?tab=stars)
 
 ## 😁✌️ Connect with Me
 
 <p align="left">
 
 <div style="display:flex;gap:2px;">
-<a href="https://www.linkedin.com/in/yakshit-garg" target="_blank">
-<img src="https://img.shields.io/badge/Linkedin:  YAKSHIT-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/sahil-~-b85926203/)" target="_blank">
+<img src="https://img.shields.io/badge/Linkedin:  SAHIL-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <!-- <br>
@@ -90,8 +90,8 @@ About= [
 
 <br>
 
-<a href="mailto:yakshitgarg25@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  yakshitgarg25-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="sa20128hil@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  sa20128hil-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
 </div>
