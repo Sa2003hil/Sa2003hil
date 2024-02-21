@@ -1,7 +1,7 @@
 ## ⚡ HELLO EVERYONE  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">, I'M SAHIL <img width="20px" height="20px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 ```
-Name = "SAHIl"
+Name = "SAHIL"
 Profession = {
   'FullStack Frontend Heavy Development':  '❤️',
   'CyberSec':  '✅',
@@ -60,7 +60,7 @@ About= [
 
   <br/>
     <a href="https://github.com/sa2003hil/github-readme-stats"><img alt="sa2003hil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sa2003hil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Sa2003hil/github-readme-stats"><img alt="sahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa2003hil&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/YAKSHIT-22/github-readme-stats"><img alt="sahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAKSHIT-22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note: </b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
