@@ -17,7 +17,7 @@ About= [
   "☀️ Nature Lover",
   "🌱 I’m currently learning **Building Things From Scratch✌️",
   "💬 Ask me about anything, I am happy to help",
-  "⚡️ Fun-Fact: I work all the time and eat a lot of tasty food😋",
+  "⚡️ Fun-Fact: I work all the time and eat a lot of tasty food😋 ",
 ]
 ```
 
