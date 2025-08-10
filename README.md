@@ -58,7 +58,7 @@ About= [
 
 <p align="center">
     <a href="https://github.com/sa2003hil/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sa2003hil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sa2003hil&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sa2003hil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sa2003hil&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -66,7 +66,7 @@ About= [
 
   <br/>
     <a href="https://github.com/sa2003hil/github-readme-stats"><img alt="sa2003hil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sa2003hil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/YAKSHIT-22/github-readme-stats"><img alt="sahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAKSHIT-22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sa2003hil/github-readme-stats"><img alt="sahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkirat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note: </b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
@@ -87,12 +87,6 @@ About= [
 <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/sahil-~-b85926203/)" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin:  SAHIL-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-
-<!-- <br>
-
-<a href="https://www.instagram.com/yakshit.g2203/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram:  YAKSHIT-%2300acee.svg?color=F77737&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a> -->
 
 <br>
 
